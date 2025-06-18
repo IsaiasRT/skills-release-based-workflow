@@ -106,7 +106,7 @@ section {
   display: block;
 }
 body {
-    /*add color */
+    background-color: black;
 }
 ol,
 ul {
